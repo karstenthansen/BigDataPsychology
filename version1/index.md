@@ -1,0 +1,81 @@
+---
+title       : Big Data Psychology
+subtitle    : Karsten T. Hansen and Vishal Singh
+author      : 
+job         : UC San Diego, New York University 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [mathjax]     # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft,selfcontained}
+--- &twocol1
+
+
+
+
+
+## Origins of Organized Data Collection
+
+
+
+*** =left
+
+"Would it not be a great satisfaction to the king to know at a designated moment every year the number of his subjects, in <font color="red">total</font> and by <font color="red">region</font>, with all the <font color="red">resources</font>, <font color="red">wealth</font> & <font color="red">poverty</font> of each place;
+the number of his nobility and ecclesiastics of all kinds, of men of the robe, of <font color="red">Catholics</font> and of those of the other <font color="red">religion</font>, all separated according to the place of their <font color="red">residence?</font> Would it not be a useful and necessary pleasure for him to be able, in his own office, to <font color="red">review in an hour's time</font> the present and past condition of a great realm of which he is the head, and be able himself to know with certitude in what consists his grandeur, his wealth, and his strengths?"
+
+### Marquis de Vauban, proposing an annual census to Louis XIV 1686
+
+
+*** =right
+
+
+<div style='text-align: right;'>
+    <img height='300' src='louis.jpg' /> 
+</div>
+
+
+---
+
+## Companies are generating a digital historical record of human behavior 
+
+<div style='text-align: center;'>
+    <img height='500' src='intro.jpg' /> 
+</div>
+
+--- 
+
+
+<br/>
+<br/>
+## Basic Contention: 
+
+<br/>
+
+## "Engaging in seemingly innocuous activities such as a web search or a casual trip to a neighborhood store can reflect aspects of our deep-rooted ideologies, values, and personality traits"
+
+
+---
+
+## Agenda 
+
+<br/>
+
+### <font color="red"> 1. Choice Concentration: Habituation vs. Variety Seeking </font> 
+(Hansen/Khan/Singh)
+
+<font color="green"> Data: Household level shopper data </font> 
+<br/>
+
+
+### <font color="red"> 2. Aging and Decision Making </font> 
+(Hansen/Khan/Singh)
+
+<font color="green"> Data: Household level shopper data  </font> 
+<br/>
+ 
+### <font color="red"> 3. The Happiness Project </font> 
+(Singh/Hansen/Baumeister)
+
+<font color="green"> Data: CDC health survey </font> 
+
+
